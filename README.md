@@ -3,9 +3,9 @@
 A Python script that converts YouTube history (exported via Google Takeout as JSON) into a format that YT re:Watch can understand.
 
 ## What You'll Need:
-1. **Python** installed on your computer
+1. [Python](https://phython.org/downloads) installed on your computer
 2. Your **YouTube history** exported from Google Takeout in JSON format (file name: `watch-history.json`)
-3. The **YT re:Watch Extension** installed in your browser (Make sure you have it set up and ready to go)
+3. The [YT re:Watch](https://github.com/EdinUser/YouTubeLocalHistory) Extension installed in your browser (Make sure you have it set up and ready to go)
 4. The **`youtube_history_convert.py`** script from this repository (for converting the history file)
 
 ## Installation
